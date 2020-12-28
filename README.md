@@ -4,7 +4,7 @@
 const brunoocal = {
   hobbies: ["League of legends", "Platzi", "Reading"],
   learned: ["JavaScript", "HTML", "CSS", "Java"],
-  learning: ["Node.JS", "React.JS", "Personal Finance","English"],
+  learning: ["Node.JS", "React.JS", "Personal Finance","English"]
  };
 ```
 ------------
