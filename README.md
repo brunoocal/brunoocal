@@ -8,6 +8,4 @@ const brunoocal = {
  };
 ```
 ------------
-![brunoocal's github stats](https://github-readme-stats.vercel.app/api?username=brunoocal&show_icons=true&theme=highcontrast&hide=prs)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoocal&langs_count=5&theme=highcontrast)
+![brunoocal's github stats](https://github-readme-stats.vercel.app/api?username=brunoocal&show_icons=true&theme=highcontrast&hide=prs)      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoocal&langs_count=5&theme=highcontrast)
