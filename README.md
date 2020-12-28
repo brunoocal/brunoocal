@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 <a href="https://github.com/brunoocal/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=brunoocal&show_icons=true&theme=prussian" />
 </a>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoocal)](https://github.com/brunoocal/github-readme-stats" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoocal)" />
