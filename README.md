@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![brunoocal's github stats](https://github-readme-stats.vercel.app/api?username=brunoocal)](https://github.com/brunoocal/github-readme-stats)
+![brunoocal's github stats](https://github-readme-stats.vercel.app/api?username=brunoocal&show_icons=true&theme=radical)
 
