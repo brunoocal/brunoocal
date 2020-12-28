@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![brunoocal's github stats](https://github-readme-stats.vercel.app/api?username=brunoocal&show_icons=true&theme=prussian)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoocal)](https://github.com/brunoocal/github-readme-stats)
 
