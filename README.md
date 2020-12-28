@@ -14,7 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+const brunoo = {
+  hobbies: ["League of legends", "Platzi", "Reading"],
+  learned: ["JavaScript", "HTML", "CSS", "Java"],
+  learning: ["Node.JS", "React.JS", "Personal Finance","English"],
+ };
+
 <a href="https://github.com/brunoocal/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=brunoocal&show_icons=true&theme=prussian" />
 </a>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoocal" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoocal&theme=prussian" />
