@@ -3,7 +3,7 @@
 ```js
 const brunoocal = {
   hobbies: ["League of legends", "Platzi", "Reading"],
-  learned: ["JavaScript", "HTML", "CSS", "Java"],
+  learned: ["JavaScript", "HTML", "CSS", "Git", "Java"],
   learning: ["Node.JS", "React.JS", "Personal Finance","English"]
  };
 ```
