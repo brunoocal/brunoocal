@@ -1,10 +1,13 @@
 # Hi, I'm Bruno
+
+I am a Uruguayan Frontend Developer specialized in React.JS
+
 ------------
 ```js
 const brunoocal = {
-  hobbies: ["League of legends", "Platzi", "Reading"],
-  learned: ["JavaScript", "HTML", "CSS", "Git", "Java"],
-  learning: ["Node.JS", "React.JS", "Personal Finance","English"]
+  hobbies: ["Programming", "Platzi", "Reading"],
+  learned: ["JS", "HTML", "CSS", "Git"],
+  learning: ["Node.JS", "English"]
  };
 ```
 ------------
